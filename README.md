@@ -145,6 +145,4 @@ A simple form that collects **login ID** and **password** and posts them to `Cal
 * Successful login → `Welcome to servlets : java`
 * Failed login → `Incorrect Login ID / Password` + reloads login form.
 
----
-
-Would you like me to also **add a section with screenshots (HTML form + success/fail page)** so your README looks more like a professional project submission?
+---...
